@@ -1,16 +1,18 @@
-### Hi there 👋
+# :sparkles: Välkommen :sparkles: 
+:woman: **Status**: Studerande   
+:book: **Utbildning**: Webbutvecklingsprogrammet, Mittuniversitetet, _2023 -_  
+:speech_balloon: **Talade språk**: Svenska, english, zhōng wén (yī diǎn diǎn) 
+___
+### **Om mig**  
+Mitt namn är Saga, jag är en 95a från de jämtländska fjällen.   
+Jag studerar för nuvarande till Webbutvecklare på Mittuniversitetet, med start HT2023, för att lära mig bland annat:
+* HTML
+* CSS
+* Javascript
+* C# (.NET)
+* Typescript  
 
-<!--
-**sagaeinkik/sagaeinkik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.. med en målsättning att också kunna lära mig Python, SQL, PHP och så vidare.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:hibiscus: _Thanks for reading!  
+/Saga_
