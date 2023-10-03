@@ -12,7 +12,7 @@ Jag studerar för nuvarande till Webbutvecklare på Mittuniversitetet, med start
 * C# (.NET)
 * Typescript  
 
-.. med en målsättning att också kunna lära mig Python, SQL, PHP och så vidare.
+.. med en målsättning att också kunna lära mig Python, Java, PHP och så vidare.
 
 :hibiscus: _Thanks for reading!  
 /Saga_
