@@ -8,11 +8,17 @@ Mitt namn är Saga, jag är en 95a från de jämtländska fjällen.
 Jag studerar för nuvarande till Webbutvecklare på Mittuniversitetet, med start HT2023, för att lära mig bland annat:
 * HTML
 * CSS
-* Javascript
+* JavaScript
 * C# (.NET)
-* Typescript  
+* TypeScript
+* Angular
+* SQL
+* NoSQL
+* React
+* Vue
+* Sass
 
-.. med en målsättning att också kunna lära mig Python, Java, PHP och så vidare.
+.. med en målsättning att bli en fullstack-utvecklare.
 
 :hibiscus: _Thanks for reading!  
 /Saga_
