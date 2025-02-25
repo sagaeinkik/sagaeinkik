@@ -17,6 +17,7 @@ I currently study Web Development at Mid Sweden University (2023-2025) to learn,
 * Vue
 * React
 * SQL and NoSQL
+* PHP
 
 .. etc, with a goal of becoming a fullstack developer.
 
