@@ -1,24 +1,24 @@
-# :sparkles: Välkommen :sparkles: 
-:woman: **Status**: Studerande   
-:book: **Utbildning**: Webbutvecklingsprogrammet, Mittuniversitetet, _2023 -_  
-:speech_balloon: **Talade språk**: Svenska, english, zhōng wén (yī diǎn diǎn) 
+# :sparkles: Hello there :sparkles: 
+:woman: **Status**: Student   
+:book: **Education**: Web development, Mid Sweden University, _2023 -_  
+:speech_balloon: **Spoken languages**: Svenska, english 
 ___
-### **Om mig**  
-Mitt namn är Saga, jag är en 95a från de jämtländska fjällen.   
-Jag studerar för nuvarande till Webbutvecklare på Mittuniversitetet, med start HT2023, för att lära mig bland annat:
+### **About**  
+My name's Saga. I was born in '95 in the north swedish mountains.  
+I currently study Web Development at Mid Sweden University (2023-2025) to learn, among other things: 
 * HTML
-* CSS
+* CSS, preprocessors (Sass) and frameworks (such as TailwindCSS)
 * JavaScript
-* C# (.NET)
+* ExpressJS, FastifyJS
+* C# with ASP.NET
+* EF Core
 * TypeScript
 * Angular
-* SQL
-* NoSQL
-* React
 * Vue
-* Sass
+* React
+* SQL and NoSQL
 
-.. med en målsättning att bli en fullstack-utvecklare.
+.. etc, with a goal of becoming a fullstack developer.
 
 :hibiscus: _Thanks for reading!  
 /Saga_
