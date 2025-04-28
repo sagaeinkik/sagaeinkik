@@ -1,5 +1,5 @@
 # Hi, I'm Saga!
-I'm an ambitious fullstack developer student from Sweden who likes making API:s and SPA:s.
+I'm an ambitious fullstack developer student from Sweden who likes making APIs and SPAs.
 
 ## Education
 Studying Computer Science and Mid-Sweden University with a major in Web Development. Graduating in June 2025 with a Higher Education Diploma. 
@@ -16,7 +16,7 @@ Fastify, MariaDB
 Parcel
 
 ## Recent school projects
-Being a student, I am constantly learning and growing as a web developer. My github repositories constitute a visual timeline of my learning journey, from the small school assignments that are my first introductions to a new technology, to the more comprehensive projects marking the end of each course.
+Being a student, I am constantly learning and growing as a web developer. My github repositories form a visual timeline of my learning journey, from the small school assignments that are my first introductions to a new technology, to the more comprehensive projects marking the end of each course.
 There is always room for improvement, and I _love_ learning. Here are two of my favorite projects I've done recently.
 
 ### MBP Pattern Library – Final Project
