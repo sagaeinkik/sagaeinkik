@@ -1,8 +1,8 @@
 # Hi, I'm Saga!
-I'm an ambitious fullstack developer student from Sweden who likes making APIs and SPAs.
+I'm an ambitious fullstack developer from Sweden who likes making APIs and SPAs.
 
 ## Education
-Studying Computer Science and Mid-Sweden University with a major in Web Development. Graduating in June 2025 with a Higher Education Diploma. 
+Computer Science at Mid-Sweden University with a major in Web Development. Graduated in June 2025 with a Higher Education Diploma. 
 
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,vue,ts,angular)](https://skillicons.dev)
@@ -16,7 +16,7 @@ Fastify, MariaDB
 Parcel
 
 ## Recent school projects
-Being a student, I am constantly learning and growing as a web developer. My github repositories form a visual timeline of my learning journey, from the small school assignments that are my first introductions to a new technology, to the more comprehensive projects marking the end of each course.
+As a newly graduated developer, my github repositories form a visual timeline of my learning journey, from the small school assignments that are my first introductions to a new technology, to the more comprehensive projects marking the end of each course.
 There is always room for improvement, and I _love_ learning. Here are two of my favorite projects I've done recently.
 
 ### MBP Pattern Library – Final Project
@@ -33,5 +33,7 @@ _Tech stack: NodeJS, Fastify, JavaScript, Vue, Tailwind CSS, SCSS, MySQL_
 Link to backend-repo: https://github.com/sagaeinkik/summitAPI  
 Link to frontend-repo: https://github.com/sagaeinkik/summit-webapp
 
+## Current project
+At the moment, I'm working on a pixel game. While I'm working on the graphics and figuring out animations, I am also building a website for presenting the game as well as organizing my work with a task manager.
 
 Thank you for your time!
